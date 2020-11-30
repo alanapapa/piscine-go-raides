@@ -11,7 +11,7 @@
 
 
 ## ***Piscine Go Raides***
-### These are our team raid solutions for Go lang educational tasks in 01 Edu system](https://www.01-edu.org/) during *`piscine`*
+### These are our team raid solutions for Go lang educational tasks in [01 Edu system](https://www.01-edu.org/) during *`piscine`*
 
 <br/>
 
